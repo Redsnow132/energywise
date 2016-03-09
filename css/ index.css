@@ -1,0 +1,97 @@
+body {background:#eee;margin:0;padding:0;color:#333}
+#header {margin:0;padding:0}
+.heading {margin:0;padding:13px 5px;font-size:small;background:url(/files/natur/zv3.png)repeat-x bottom}
+.description {margin:0;padding:7px 5px;font-size:small;background:#6b9a00;border-top:3px solid #666;color:#ccc;text-shadow:#111 1px 1px 1px;border-bottom:1px solid #7cab11}
+#navigation {background:url(/files/natur/zv4.png)repeat-x bottom,#6b9a00;margin:0;padding:6px 0;text-align:center;border-top:1px solid #497800;border-bottom:3px solid #666}
+#navigation span {margin:1px;padding:4px 2px;display:inline-table;width:26%;background:url(/files/natur/zv6.png)repeat-x top,#444;border:1px solid #7cab11}
+#navigation span+span+span a {content:"Menu"}
+.description:before {content:"";display:block;background:url(/files/natur/zv2.png)top right no-repeat;padding:22px 0;margin:-43px 0 0 0}
+#top-content {background:url(/files/natur/zv8.png)repeat,#ddd;margin:0;padding:6px 0;border-bottom:1px solid #fff;text-align:center}
+#search-form [type=text] { width:47%;background:url(/files/natur/wn4.png)repeat-x top,#eee;margin:1px;padding:4px;color:#333;border:1px solid #bbb} 
+#search-form [type=submit] {;width:20%;margin:1px;padding:4px;border:1px solid #5a8900;color:#ffe;background:url(/files/natur/zv4.png)repeat-x bottom,#6b9a00}
+.post,.post-single {background:url(/files/natur/zv18.png)bottom right no-repeat,url(/files/natur/zv21.png)repeat-x bottom,url(/files/natur/zv17.png)repeat-x top,#333;margin:7px 5px 36px 5px;padding:0;border:3px solid #777;color:#ccc;text-shadow:#111 1px 1px 1px}
+.post-meta:before {content:"";display:block;background:url(/files/natur/zv2.png)top left no-repeat,url(/files/natur/zv15.png)bottom right no-repeat;padding:22px 0;margin:-40px 0 0 5px}
+.categories,.post-meta .title {margin:0;padding:2px 0;font-size:small}
+.post-meta {margin:0;padding:5px;border-bottom:1px solid #111;color:#777}
+#content {background:url(/files/natur/zv22.png)bottom left no-repeat;margin:0;padding:28px 0 1px 0}
+.post:before,.post-single:before {content:"";padding:5px;display:block;background:url(/files/natur/zv9.png)top right no-repeat,url(/files/natur/zv10.png)bottom left no-repeat;margin:-3px -3px -8px -3px}
+.post:after,.post-single:after {content:"";padding:5px;display:block;background:url(/files/natur/zv11.png)bottom right no-repeat,url(/files/natur/zv12.png)bottom left no-repeat;margin:-7px -3px -3px -3px}
+.post-content {margin:0;padding:9px 5px;border-top:1px solid #444}
+.thumbnail{border:1px solid #666 !important;margin:2px 2px 0 0 !important;width:50px !important;height:60px !important;padding:1px !important}
+.post-meta2 {;margin:0;padding:5px}
+#pagination-links {border-bottom:1px solid #bbb;background:url(/files/natur/zv24.png)repeat-x top,#ddd;border-top:3px solid #777;text-align:center;margin:0;padding:5px 2px 7px 2px} 
+#pagination-links span {padding:4px;display:inline-block;background: url(/files/natur/zv17.png)repeat-x top,#333;color:#ccc;border:1px solid #222} 
+#pagination-links a {padding:4px;display:inline-block;margin-top:2px;text-decoration:none;background:url(/files/natur/zv4.png)repeat-x bottom,#6b9a00;border:1px solid #497800;color:#fff;text-shadow:#111 1px 1px 1px}
+#navigation-menu h3 a {margin:0;padding:7px 5px;background:url(/files/natur/zv36.png)top right no-repeat,url(/files/natur/zv4.png)repeat-x bottom,#6b9a00;color:#eee;text-shadow:#111 1px 1px 1px;display:block;width:45%}
+#navigation-menu h3 {background:url(/files/natur/zv32.png)repeat-x bottom,#ddd;margin:0;padding:7px 0 0 0;border-bottom:3px solid #777;border-top:1px solid #eee;}
+#navigation-menu ul {margin:-3px 0 0 0;padding:20px 5px 5px 5px;background:url(/files/natur/zv33.png)top left no-repeat}
+#navigation-menu li {list-style:none;margin:0;padding:5px;background:url(/files/natur/zv35.png)repeat-x top,#6b9a00;border:1px solid #777;border-width:1px 3px;border-color:#7cab11 #555 #497800 #555}
+#navigation-menu li:first-child {border-top:3px solid #555 !important}
+#navigation-menu li.last {border-bottom:3px solid #555 !important}
+#navigation-menu li:first-child:before {content:"";padding:5px;display:block;background:url(/files/natur/zv28.png)top right no-repeat,url(/files/natur/zv29.png)bottom left no-repeat;margin:-8px -8px 0 -8px} 
+#navigation-menu li.last:after {content:"";padding:5px;display:block;background:url(/files/natur/zv30.png)bottom right no-repeat,url(/files/natur/zv31.png)bottom left no-repeat;margin:-0 -8px -8px -8px}
+#category-bottom {margin:0;padding:0 0 1px 0;background:url(/files/natur/zv46.png)top right no-repeat,url(/files/natur/zv37.png)repeat-x top,#ddd;border-top:1px solid #fff}
+#navigation-menu {border-bottom:1px solid #ccc}
+#category-bottom h3 {margin:0;padding:8px 5px;color:#222;text-shadow:#eee 1px 1px 1px}
+#category-bottom ul {margin:5px;padding:0;border:3px solid #777;background:url(/files/natur/zv47.png)repeat-x top,url(/files/natur/zv45.png)repeat-x bottom,#333}
+#category-bottom li {list-style:none;margin:0;padding:5px;border-top:1px solid #444;border-bottom:1px solid #151515;color:#ccc;text-align:right}
+#category-bottom li a {float:left}
+#category-bottom ul:before {content:"";padding:5px;display:block;background:url(/files/natur/zv40.png)top right no-repeat,url(/files/natur/zv41.png)bottom left no-repeat;margin:-3px -3px -8px -3px} 
+#category-bottom ul:after {content:"";padding:5px;display:block;background:url(/files/natur/zv42.png)bottom right no-repeat,url(/files/natur/zv43.png)bottom left no-repeat;margin:-7px -3px -3px -3px}
+#category-bottom li.last {border-bottom:none !important}
+#category-bottom li:first-child {border-top:none !important}
+#category-bottom {border-bottom:1px solid #fff}
+#blogroll {border-top:1px solid #aaa;background: url(/files/natur/zv48.png)repeat-x top;border-bottom:1px solid #bbb}
+#blogroll h3 {background:url(/files/natur/zv4.png)repeat-x bottom,#6b9a00;margin:35px 0 0 0;padding:8px 5px;color:#eee;text-shadow:#111 1px 1px 1px;border:1px solid #555;border-width:1px 0 3px 0}
+#blogroll h3:before {content:"";display:block;background:url(/files/natur/zv2.png)top left no-repeat;padding:22px 0;margin:-42px 0 0 5px}
+#blogroll ul {background:#ddd;margin:5px;padding:0;border:3px solid #777}
+#blogroll ul:before {content:"";padding:5px;display:block;background:url(/files/natur/zv9.png)top right no-repeat,url(/files/natur/zv10.png)bottom left no-repeat;margin:-3px -3px -8px -3px}
+#blogroll ul:after {content:"";padding:5px;display:block;background:url(/files/natur/zv11.png)bottom right no-repeat,url(/files/natur/zv12.png)bottom left no-repeat;margin:-7px -3px -3px -3px}
+#blogroll li {list-style:none;margin:0;padding:5px 3px 5px 5px;border-top:1px solid #bbb;border-bottom:1px solid #eee;background:url(/files/natur/zv49.png)repeat-x bottom}
+#blogroll li:after {content:"";border:4px solid #aaa;border-color:transparent transparent transparent #777;float:right}
+#blogroll li.last {border-bottom:none !important}
+#blogroll li:first-child {border-top:none !important}
+h6 {margin:0;padding:0}
+#footer {border-bottom:1px solid #bbb;background:url(/files/natur/zv46.png)top right no-repeat,url(/files/natur/zv37.png)repeat-x top,#ddd;border-top:1px solid #fff;text-align:center;margin:0;padding:5px}
+#footer img {display:none}
+.post-single .post-content {border-bottom:1px solid #111}
+#share-buttons {margin:0;padding:5px;border-top:1px solid #444}
+#share-buttons:before {content:"Share On : ";}
+#following-list h4,#blogroll_list h3,#recent-posts-list h4 {background:url(/files/natur/zv4.png)repeat-x bottom,#6b9a00;margin:0;padding:8px 5px;color:#eee;text-shadow:#111 1px 1px 1px;border:1px solid #111;border-width:1px 0}
+ol {margin:0;padding:0}
+#blogroll_list li,#following-list li,#recent-posts-list li {margin:0;padding:5px;border-top:1px solid #444;border-bottom:1px solid #111;list-style:none;background:url(/files/natur/zv47.png)repeat-x top}
+#comments h3 {background:url(/files/natur/zv4.png)repeat-x bottom,#6b9a00;margin:0;padding:8px 5px;color:#eee;text-shadow:#555 1px 1px 1px;border:1px solid #555;border-width:1px 0 3px 0}
+.post-single {margin-bottom:5px}
+#comments h4 {margin:0;padding:5px;border-bottom:1px solid #bbb;background:url(/files/natur/zv24.png)repeat-x top,#ddd}
+#comments h5 {background:url(/files/natur/zv32.png)repeat-x bottom,#ddd;margin:0;padding:5px;border-top:1px solid #eee;border-bottom:3px solid #777}
+.comment-header .title {border:none !important;padding:0 !important;background:transparent !important}
+.comment {margin:0;padding:8px 5px;border-top:1px solid #fff;border-bottom:1px solid #ccc}
+.comment-header {background:url(/files/natur/zv51.png)bottom right no-repeat,url(/files/natur/zv35.png)repeat-x top,#6b9a00;border:3px solid #777;border-bottom:1px solid #333;padding:3px 5px}
+.comment-content {margin:0;padding:8px 5px;color:#ccc;background:url(/files/natur/zv45.png)repeat-x bottom,#333;border:3px solid #777;border-top:1px solid #690}
+.comment-header:before {content:"";padding:5px;display:block;background:url(/files/natur/zv9.png)top right no-repeat,url(/files/natur/zv10.png)bottom left no-repeat;margin:-6px -8px 0px -8px} 
+.comment-content:after {content:"";padding:5px;display:block;background:url(/files/natur/zv11.png)bottom right no-repeat,url(/files/natur/zv12.png)bottom left no-repeat;margin:0 -8px -11px -8px}
+#comment_form{text-align:left;margin:0;padding:5px;background:url(/files/natur/zv24.png)repeat-x top,#ddd}
+#comment_form textarea{width:80%;margin:2px 0;padding:15px 0;background:#f5f5f5;border:1px solid #ccc;color:#333}
+#comment_form input[type=text],.mobile_body
+#comment_form select{width:50%;margin:2px 0;padding:3px;background:#f5f5f5;border:1px solid #ccc;color:#333}
+#comment_form [type=submit] {margin:2px 0;padding:3px;background:url(/files/natur/zv35.png)repeat-x top,#6b9a00;border:1px solid #555;color:#eee}
+.date {display:none}
+.highlight {margin:0;padding:6px;text-align:center;background:#333;color:#ccc}
+#comments li {margin:0;padding:5px;list-style:none;text-align:center}
+#comments h5 a,#footer a,#blogroll li a,.heading a {color:#580;text-shadow:#f1f1f1 1px 1px 1px}
+a,.post-meta .title {color:#690;text-shadow:#111 1px 1px 1px}
+#navigation-menu h3 a,#comments h3 a,#following-list h4 a,#blogroll_list h3 a {color:#eee;text-shadow:#111 1px 1px 1px}
+#navigation-menu li a,.comment-header .title a {color:#ddd !important;text-shadow:#222 1px 1px 1px !important}
+.post .post-content a{color:#777}
+.post-content li {background:#444;margin:0;padding:5px;border-top:1px solid #555;border-bottom:1px solid #222;list-style:none}
+.post-content h3,.post-content h6 {background:#6b9a00;margin:0;padding:5px;color:#eee;font-size:small}
+.post-content h2 {font-size:small;margin:0;padding:5px;background:#444}
+.post-content h4 {font-size:small;margin:0;padding:5px;background:#555}
+.post-content h5 {font-size:small;margin:0;padding:5px;background:#666}
+.post-content h1 {font-size:small;margin:0;padding:5px;background:#777}
+body img {max-width:80%;max-height:80%}
+.post-single .post-content textarea {width:70px;height:70px;padding:0;margin:0}
+.post-content,.comment-content {word-wrap:break-word}
+#navigation-menu li h3,#navigation-menu li h5 {margin:-5px;padding:5px;background:#444;color:#ccc}
+#footer h6:before {content:"fmb_" !important;display:inline !important}
+#footer:after {content:"Natur By Flambon" !important;margin:3px -5px -5px -5px;padding:Gpx;display:block !important;font-size:small !important}
