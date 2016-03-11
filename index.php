@@ -30,13 +30,13 @@ include("server/handles/HandleRegister.php");
  }
  
  p{
- color:#006600;
+ color:#00ff00;
  text-align:center;
  font-size: 20px;
  }
  
  b{
- color:#006600;
+ color:#00ff00;
  text-align:center;
  font-size:30px;
  }
@@ -44,6 +44,7 @@ include("server/handles/HandleRegister.php");
  
 </style>
 <body>
+ <center>
 <header>
 
 </header>
