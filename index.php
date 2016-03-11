@@ -24,10 +24,7 @@ include("server/handles/HandleRegister.php");
  body{
  background-color:#000000;
  }
- 
- img{
- text-align:center;
- }
+
  
  p{
  color:#006600;
@@ -44,6 +41,7 @@ include("server/handles/HandleRegister.php");
  
 </style>
 <body>
+ <center>
 <header>
 
 </header>
